@@ -1,11 +1,13 @@
 2019 Expenditure Budget and Development 
 
- $160,000 Budget for Technical Implementation:
+ $360,000 Budget for Technical Implementation plus as follows:
 
-· Dual AWS Node Servers, Cloud Service.
+- Full development team working on making BRE work on the Tron Network / Blockchain
 
-· Community Website and Registration Program
+- Licensing with each state in the US each country. 
 
-· File Transfer system  
+- Community Website and Registration Program
 
-· Marketing, Advertising & Partnerships 
+- File Transfer system  
+
+- Marketing, Advertising & Partnerships 
